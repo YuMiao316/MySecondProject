@@ -1,3 +1,6 @@
 # MySecondProject
+<<<<<<< HEAD
 
-888888
+88888844414
+
+>>>>>>> YuMiao316-patch-1
